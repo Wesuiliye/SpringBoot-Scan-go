@@ -1,0 +1,10 @@
+*.exe
+output.txt
+fofaout.txt
+urlout.txt
+vulout.txt
+dumpout.txt
+zoomout.txt
+hunterout.txt
+error.log
+heapdump
